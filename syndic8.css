@@ -4,4 +4,6 @@
 .loading {
   display: none !important;
 }
-  
+app-spinner {
+  display: none !important;
+}
