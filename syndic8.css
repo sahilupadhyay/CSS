@@ -4,6 +4,9 @@
 .loading {
   display: none !important;
 }
+.message {
+  display: none !important;
+}
 app-spinner {
   display: none !important;
 }
